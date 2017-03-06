@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <transactions >    
+    <eachTransaction id="T1">    
+	<item>ipad</item>   
+	<item>walnut</item>    
+	<item>grapes</item>   
+	<item>bottle</item> 
+    </eachTransaction>       
+
+	<eachTransaction id="T2">    
+    <item>grapes</item>    
+	<item>coffee</item>     
+	<item>ipad</item>      
+	<item>bulb</item>    
+	</eachTransaction>      
+
+	<eachTransaction id="T3">  
+	<item>chocolate</item>   
+	<item>bottle</item>
+	<item>Shoes</item>         
+	<item>ipad</item>   
+	</eachTransaction>      
+
+	<eachTransaction id="T4">  
+	<item>walnut</item>      
+	<item>grapes</item>    
+	<item>ipad</item>    
+	<item>soda</item>    
+	</eachTransaction>      
+
+	<eachTransaction id="T5">   
+    <item>soda</item>    
+    <item>pencil</item>      
+	<item>ipad</item>              
+    <item>grapes</item>     
+	<item>wristband</item>      
+	</eachTransaction>       
+
+	<eachTransaction id="T6">    
+    <item>ipad</item>         
+	<item>wristband</item>      
+	<item>bulb</item>      
+	<item>pencil</item>  
+	</eachTransaction>    
+	
+	<eachTransaction id="T4">   
+	<item>walnut</item>         
+	<item>wristband</item>     
+	<item>soda</item>   
+	<item>pencil</item>    
+	</eachTransaction>     
+
+	<eachTransaction id="T5">   
+	<item>fanta</item>      
+	<item>fan</item>     
+    <item>cake</item>      
+	</eachTransaction>    
+
+	<eachTransaction id="T6">   
+	<item>pencil</item>       
+    <item>wristband</item>     
+	<item>soda</item>      
+	<item>grapes</item>      
+	</eachTransaction>     
+	
+	<eachTransaction id="T7">  
+	<item>ipad</item>   
+	<item>soda</item>      
+	<item>walnut</item>     
+	<item>Shoes</item>      
+	</eachTransaction>   
+	
+	<eachTransaction id="T8">
+	<item>soda</item>    
+	<item>grapes</item>       
+    <item>wristband</item>     
+	<item>ipad</item>        
+    <item>pencil</item>  
+	</eachTransaction>       
+
+	<eachTransaction id="T9">     
+	<item>soda</item>       
+    <item>grapes</item>         
+	<item>ipad</item>              
+	</eachTransaction>          
+
+	<eachTransaction id="T10">  
+	<item>wristband</item>     
+	<item>walnut</item>     
+	<item>grapes</item>     
+    </eachTransaction>     
+
+	<eachTransaction id="T11">    
+    <item>ipad</item>       
+    <item>pencil</item>           
+	<item>soda</item>      
+	</eachTransaction>     
+
+	<eachTransaction id="T12">     
+	<item>bottle</item>       
+    <item>pencil</item>      
+	<item>ipad</item>           
+	</eachTransaction>       
+
+	<eachTransaction id="T13">   
+	<item>bottle</item>     
+	<item>ipad</item>     
+    <item>soda</item>        
+	</eachTransaction>       
+	
+	<eachTransaction id="T14">    
+    <item>soda</item>         
+	<item>ipad</item>       
+    <item>grapes</item>         
+	<item>wristband</item>     
+	</eachTransaction>     
+
+	<eachTransaction id="T15">    
+    <item>walnut</item>          
+	<item>ipad</item>        
+	<item>grapes</item>          
+	<item>pencil</item>
+	<item>Chair</item>     
+	</eachTransaction> 
+    
+	<eachTransaction id="T16">  
+	<item>Chair</item>           
+	<item>ipad</item>
+	<item>pencil</item>         
+	<item>ipad</item>      
+	</eachTransaction>         
+
+	<eachTransaction id="T17"> 
+	<item>grapes</item>    
+	<item>Chair</item>      
+    <item>soda</item>        
+	</eachTransaction>   
+
+	<eachTransaction id="T18">   
+	<item>ipad</item>        
+	<item>soda</item>      
+	<item>grapes</item>            
+	<item>walnut</item>      
+	</eachTransaction>      
+
+    <eachTransaction id="T19"> 
+	<item>wristband</item>       
+    <item>walnut</item>     
+	<item>ipad</item>       
+	<item>pencil</item>      
+    <item>Chair</item> 
+	<item>grapes</item>   
+    </eachTransaction>      
+
+    <eachTransaction id="T20">  
+	<item>ipad</item>         
+	<item>bottle</item>    
+	</eachTransaction>    
+	<DBname>ebay</DBname> 
+	</transactions> 

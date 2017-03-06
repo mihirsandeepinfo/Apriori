@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<transactions >    
+    <eachTransaction id="T1"> 
+	<item>power bank</item>    
+	<item>shoes</item>       
+    <item>door</item>       
+    <item>ipod</item>       
+	<item>glasses</item>   
+    <item>umbrella</item>   
+	<item>CD</item>   
+	<item>mouse</item>  
+    </eachTransaction>   
+
+	<eachTransaction id="T2">   
+	<item>mouse</item>        
+	<item>ipod</item>       
+    <item>power bank</item>   
+	<item>CD</item>         
+	</eachTransaction>      
+
+	<eachTransaction id="T3">    
+	<item>glasses</item>      
+	<item>ipod</item>      
+	<item>CD</item>      
+	<item>mouse</item>   
+	<item>umbrella</item>    
+	<item>camera</item>           
+	</eachTransaction>       
+
+	<eachTransaction id="T4">   
+	<item>umbrella</item>       
+    <item>glasses</item>        
+	<item>CD</item>       
+	<item>power bank</item>     
+	<item>banana</item>    
+	<item>camera</item>     
+	</eachTransaction>       
+
+	<eachTransaction id="T5">  
+	<item>camera</item>       
+	<item>ipod</item>        
+	<item>glasses</item>     
+	<item>CD</item>            
+	</eachTransaction>      
+
+    <eachTransaction id="T6"> 
+	<item>CD</item>     
+	<item>power bank</item>      
+	<item>banana</item>       
+    <item>camera</item>        
+	<item>umbrella</item>       
+	</eachTransaction>     
+
+	<eachTransaction id="T7">    
+	<item>power bank</item>     
+	<item>camera</item>        
+	<item>glasses</item>        
+	<item>ipod</item>       
+	<item>banana</item>    
+	<item>shoes</item>     
+	<item>CD</item>      
+	</eachTransaction>      
+
+    <eachTransaction id="T8">    
+    <item>camera</item>        
+	<item>banana</item>       
+    <item>ipod</item>             
+	</eachTransaction>   
+
+	<eachTransaction id="T9"> 
+	<item>CD</item>     
+	<item>door</item>      
+	<item>ipod</item>       
+	<item>mouse</item>              
+	</eachTransaction>        
+
+    <eachTransaction id="T10"> 
+	<item>umbrella</item>
+	<item>mouse</item>        
+    <item>CD</item>       
+    </eachTransaction>    
+
+   <eachTransaction id="T11">   
+   <item>CD</item>       
+   <item>mouse</item>      
+   <item>door</item>       
+   <item>ipod</item>      
+   </eachTransaction>      
+
+   <eachTransaction id="T12"> 
+   <item>power bank</item>    
+   <item>camera</item>        
+   <item>shoes</item>        
+   <item>ipod</item>         
+   <item>door</item>       
+   <item>CD</item>        
+   <item>mouse</item>          
+   </eachTransaction>      
+
+   <eachTransaction id="T13">   
+   <item>door</item>        
+   <item>ipod</item>        
+   <item>mouse</item>      
+   </eachTransaction>      
+
+   <eachTransaction id="T14">   
+   <item>umbrella</item>        
+   <item>mouse</item>        
+   <item>power bank</item>   
+   <item>camera</item>      
+   </eachTransaction>       
+
+   <eachTransaction id="T15">   
+   <item>camera</item>     
+   <item>CD</item>       
+   <item>mouse</item>    
+   </eachTransaction>    
+
+   <eachTransaction id="T16">   
+   <item>ipod</item>        
+   <item>mouse</item>         
+   <item>umbrella</item>     
+   </eachTransaction>       
+
+   <eachTransaction id="T17">   
+   <item>power bank</item>     
+   <item>CD</item>        
+   <item>ipod</item>       
+   </eachTransaction>      
+
+   <eachTransaction id="T18">     
+   <item>power bank</item>    
+   <item>camera</item>        
+   <item>umbrella</item>        
+   <item>ipod</item>     
+   </eachTransaction>       
+
+   <eachTransaction id="T19">           
+   <item>charger</item>        
+   <item>CD</item>         
+   <item>mouse</item>    
+   </eachTransaction>      
+
+   <eachTransaction id="T20">         
+   <item>ipod</item>        
+   <item>umbrella</item>     
+   </eachTransaction>     
+   <DBname>shoprite</DBname>  
+   </transactions> 

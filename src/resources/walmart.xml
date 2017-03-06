@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<transactions >    
+    <eachTransaction id="T1">
+	<item>banana</item>
+	<item>TV</item>
+	<item>Chair</item>
+	<item>Bed Sheets</item> 
+	<item>vegetable</item>
+	<item>Sofa</item>  
+	</eachTransaction>
+	
+	<eachTransaction id="T2">   
+     <item>Bottle</item>  
+	 <item>gift</item>   
+	 <item>Chair</item>  
+	 <item>Curtains</item>       
+	 </eachTransaction> 
+     
+	 <eachTransaction id="T3">   
+     <item>TV</item>       
+	 <item>Bed Sheets</item>        
+	 <item>Sofa</item>      
+	 <item>Shoes</item>     
+     <item>Car</item>   
+	 <item>gift</item>    
+	 <item>banana</item>     
+     </eachTransaction>  
+	 
+	 <eachTransaction id="T4">    
+	 <item>banana</item>         
+	 <item>Chair</item>     
+     <item>Sofa</item>   
+	 </eachTransaction>  
+	 
+	 <eachTransaction id="T5">  
+	 <item>Bottle</item>       
+	 <item>Bed Sheets</item>        
+	 <item>Shoes</item>      
+	 <item>Curtains</item>    
+	 <item>Chair</item>       
+    </eachTransaction>  
+    
+	  <eachTransaction id="T6">    
+	  <item>banana</item>     
+      <item>TV</item>    
+      <item>gift</item>  
+	  <item>vegetable</item>  
+	  </eachTransaction>
+	  
+	  <eachTransaction id="T7">  
+	  <item>banana</item>       
+	  <item>gift</item>       
+	  <item>Curtains</item>     
+	  <item>Chair</item>   
+	  <item>vegetable</item>        
+	  </eachTransaction> 
+	  
+	  <eachTransaction id="T8"> 
+	  <item>Car</item>        
+	  <item>Bed Sheets</item>      
+	  <item>banana</item>      
+	  <item>gift</item>     
+    </eachTransaction>
+	
+	<eachTransaction id="T9"> 
+	<item>Shoes</item>         
+	<item>vegetable</item>     
+	</eachTransaction>  
+	
+    <eachTransaction id="T10">    
+    <item>book</item>         
+	<item>Chair</item>      
+	</eachTransaction>
+	
+	<eachTransaction id="T11">     
+	<item>Curtains</item>        
+	<item>banana</item>           
+	<item>vegetable</item>   
+    </eachTransaction> 
+	
+    <eachTransaction id="T12">   
+	<item>Car</item>       
+    <item>Chair</item>      
+	</eachTransaction> 
+	
+	<eachTransaction id="T13">   
+	<item>banana</item>         
+	<item>gift</item>           
+	</eachTransaction> 
+	
+	<eachTransaction id="T14">   
+	<item>Curtains</item>       
+	<item>banana</item>       
+	</eachTransaction>
+	
+	  <eachTransaction id="T15">  
+      <item>Bottle</item>       
+	  <item>Bed Sheets</item>      
+	  <item>vegetable</item>    
+      <item>notebook</item>   
+	  </eachTransaction> 
+      
+	  <eachTransaction id="T16"> 
+	  <item>Shoes</item>       
+	  <item>Bottle</item>       
+	  <item>vegetable</item>    
+      <item>Car</item>     
+	  </eachTransaction>  
+	  
+	  <eachTransaction id="T17">    
+	  <item>banana</item>    
+	  <item>Bed Sheets</item>     
+	  <item>Chair</item>   
+      <item>vegetable</item>  
+      </eachTransaction> 
+	  
+    <eachTransaction id="T18"> 
+	<item>gift</item>
+	<item>Curtains</item>    
+    </eachTransaction>  
+	
+	<eachTransaction id="T19">  
+	<item>gift</item>          
+	<item>Curtains</item>     
+	</eachTransaction>
+	
+	<eachTransaction id="T20"> 
+	<item>banana</item>        
+	<item>gift</item>
+	</eachTransaction>
+	
+<DBname>walmart</DBname>  
+</transactions>     
